@@ -213,7 +213,7 @@
     .container{width: 90%;}
     .bannerleft h5{font-size: 16px;}
     .bannerleft h2{font-size: 22px;}
-    .btn a{padding: 10px 14px 10px;}
+    .btn a{padding: 10px 14px 10px; font-size:14px;}
     ul.reset.action{text-align: left;}
     .episodesec ul li{width: 100%;}
     .subscribesec h4{font-size: 22px; margin-bottom: 0;}
@@ -236,7 +236,7 @@
     .donationsec p{margin-bottom: 28px;}
     .donationsec h2{margin-bottom: 10px;}
     .progressbarsec {width: 80%;}
-    input.slider1{width: 65%;}
+    input.slider1{width: 63%;}
     .podtopsec ul li a{font-size: 16px;}
     .volumesec {width: 35%;}
     .bannersec{padding: 40px 0 280px;}
